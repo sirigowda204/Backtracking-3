@@ -1,5 +1,5 @@
-// Time Complexity : O(n!)
-// Space Complexity : O(n^2)
+// Time Complexity : O(4^l), l-length of word
+// Space Complexity : O(l)
 // Did this code successfully run on Leetcode : Yes
 // Any problem you faced while coding this : No
 
